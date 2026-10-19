@@ -1,0 +1,13 @@
+/boxforge
+/build/
+/runtime/*
+!/runtime/.gitkeep
+
+# Windows metadata sidecar files
+*:Zone.Identifier
+
+# Generated test logs
+*.log
+
+# Local backup files
+*.bak
